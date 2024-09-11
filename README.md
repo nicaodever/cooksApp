@@ -5,3 +5,6 @@
  <p>-Na construção do projeto utilizei react-native com o auxilio do expo, também utilizei bibliotecas como react-reanimated 
 para animações e para o banco de dados tive minha primeira experiência com supabase(PostegreSql).
 </p>
+
+
+https://www.linkedin.com/posts/nicolas-pimentel-828838284_estou-aqui-para-apresentar-um-projeto-que-activity-7173134801388998658-nZC4?utm_source=share&utm_medium=member_desktop
